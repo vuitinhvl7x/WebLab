@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Iphone</name>
+    <price>100000</price>
+    <description>cui thoi</description>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Samsung</name>
+    <price>100001</price>
+    <description>tam duoc</description>
+  </product>
+  <product><id>3</id><name>hello</name><price>111</price><description>hiiii</description></product>
+<product><id>4</id><name>haiz</name><price>112</price><description>d</description></product></products>
